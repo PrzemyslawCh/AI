@@ -1,0 +1,8 @@
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Quasi_Newton\bin\Debug\Quasi_Newton.exe.config
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Quasi_Newton\bin\Debug\Quasi_Newton.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Quasi_Newton\bin\Debug\Quasi_Newton.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Quasi_Newton\obj\Debug\Quasi_Newton.csproj.AssemblyReference.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Quasi_Newton\obj\Debug\Quasi_Newton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Quasi_Newton\obj\Debug\Quasi_Newton.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Quasi_Newton\obj\Debug\Quasi_Newton.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Quasi_Newton\obj\Debug\Quasi_Newton.pdb

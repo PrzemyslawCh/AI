@@ -1,0 +1,16 @@
+C:\Users\Pick\Desktop\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.csproj.AssemblyReference.cache
+C:\Users\Pick\Desktop\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Gradient_Descent\Descent_Method\bin\Debug\Descent_Method.exe.config
+C:\Users\Pick\Desktop\Gradient_Descent\Descent_Method\bin\Debug\Descent_Method.exe
+C:\Users\Pick\Desktop\Gradient_Descent\Descent_Method\bin\Debug\Descent_Method.pdb
+C:\Users\Pick\Desktop\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.exe
+C:\Users\Pick\Desktop\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Descent_Method\bin\Debug\Descent_Method.exe.config
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Descent_Method\bin\Debug\Descent_Method.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Descent_Method\bin\Debug\Descent_Method.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.csproj.AssemblyReference.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Descent_Method\obj\Debug\Descent_Method.pdb

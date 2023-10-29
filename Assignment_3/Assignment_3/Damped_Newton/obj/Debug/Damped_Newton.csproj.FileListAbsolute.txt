@@ -1,0 +1,16 @@
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Damped_Newton\bin\Debug\Damped_Newton.exe.config
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Damped_Newton\bin\Debug\Damped_Newton.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Damped_Newton\bin\Debug\Damped_Newton.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Damped_Newton\obj\Debug\Damped_Newton.csproj.AssemblyReference.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Damped_Newton\obj\Debug\Damped_Newton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Damped_Newton\obj\Debug\Damped_Newton.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Damped_Newton\obj\Debug\Damped_Newton.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Damped_Newton\obj\Debug\Damped_Newton.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Damped_Newton\bin\Debug\Damped_Newton.exe.config
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Damped_Newton\bin\Debug\Damped_Newton.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Damped_Newton\bin\Debug\Damped_Newton.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Damped_Newton\obj\Debug\Damped_Newton.csproj.AssemblyReference.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Damped_Newton\obj\Debug\Damped_Newton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Damped_Newton\obj\Debug\Damped_Newton.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Damped_Newton\obj\Debug\Damped_Newton.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Damped_Newton\obj\Debug\Damped_Newton.pdb

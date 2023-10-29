@@ -1,0 +1,16 @@
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Conjugate_Gradient\bin\Debug\Conjugate_Gradient.exe.config
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Conjugate_Gradient\bin\Debug\Conjugate_Gradient.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Conjugate_Gradient\bin\Debug\Conjugate_Gradient.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.csproj.AssemblyReference.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.csproj.AssemblyReference.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Conjugate_Gradient\obj\Debug\Conjugate_Gradient.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Conjugate_Gradient\bin\Debug\Conjugate_Gradient.exe.config
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Conjugate_Gradient\bin\Debug\Conjugate_Gradient.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Conjugate_Gradient\bin\Debug\Conjugate_Gradient.pdb

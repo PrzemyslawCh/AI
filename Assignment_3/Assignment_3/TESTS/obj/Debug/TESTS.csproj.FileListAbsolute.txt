@@ -1,0 +1,8 @@
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\TESTS\bin\Debug\TESTS.exe.config
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\TESTS\bin\Debug\TESTS.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\TESTS\bin\Debug\TESTS.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\TESTS\obj\Debug\TESTS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\TESTS\obj\Debug\TESTS.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\TESTS\obj\Debug\TESTS.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\TESTS\obj\Debug\TESTS.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\Gradient_Descent\TESTS\obj\Debug\TESTS.csproj.AssemblyReference.cache

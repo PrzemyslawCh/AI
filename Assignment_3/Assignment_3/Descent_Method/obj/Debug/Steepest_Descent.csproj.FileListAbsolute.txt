@@ -1,0 +1,7 @@
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Descent_Method\bin\Debug\Descent_Method.exe.config
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Descent_Method\bin\Debug\Descent_Method.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Descent_Method\bin\Debug\Descent_Method.pdb
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Descent_Method\obj\Debug\Steepest_Descent.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Descent_Method\obj\Debug\Steepest_Descent.csproj.CoreCompileInputs.cache
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Descent_Method\obj\Debug\Descent_Method.exe
+C:\Users\Pick\Desktop\Studia\SEM3\AI xD\s205809_Przemyslaw_Chachaj_chapter3\Assignment_3\Descent_Method\obj\Debug\Descent_Method.pdb
